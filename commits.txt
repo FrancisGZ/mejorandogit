@@ -1,0 +1,35 @@
+commit 7817d3a8002cce73912b4a189fe8c002205f0b2c
+Author: Francis <francis_gz@hotmail.com>
+Date:   Tue Nov 25 18:04:50 2014 -0600
+
+    Cambio en los sitios
+
+commit 63bb97d40695bf4d5ac1ed3c56b836a5e815826b
+Author: Francis <francis_gz@hotmail.com>
+Date:   Tue Nov 25 18:03:12 2014 -0600
+
+    Cambio en otra descripcion
+
+commit caa0cc1ccb3675d076fcc1d32adabb22a3c43396
+Author: Francis <francis_gz@hotmail.com>
+Date:   Tue Nov 25 18:02:03 2014 -0600
+
+    cambio en direcciones de redes sociales
+
+commit f8f28aef3e5e71e3f77ddd387af1ac716567ae57
+Author: Francis <francis_gz@hotmail.com>
+Date:   Tue Nov 25 17:59:44 2014 -0600
+
+    cambio en la desripcion del perfil
+
+commit ac5ba7fd9c86e7fab42c55cd4260995678d36908
+Author: Francis <francis_gz@hotmail.com>
+Date:   Tue Nov 25 17:54:57 2014 -0600
+
+    Se cambio el nombre
+
+commit ec6249a441b0c3c2520058899c87c5222b218f0b
+Author: Francis <francis_gz@hotmail.com>
+Date:   Tue Nov 25 17:48:33 2014 -0600
+
+    estos son los archivos base de mi portafolio
